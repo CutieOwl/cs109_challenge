@@ -1,6 +1,6 @@
 # Welcome! 
 
-This is my (Katherine Li's) repository for my CS109 Challenge Project, "Horoscopes: Fact or Fiction?"
+This is my (Katherine Li's) repository for my CS109 Challenge Project, "Do Horoscopes Work: Written in the Stars?"
 
 You can find the code (in an .ipynb file with visuals!) under src/horoscope.ipynb.
 
